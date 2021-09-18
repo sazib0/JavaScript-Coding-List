@@ -1,7 +1,7 @@
 # 
  <div align="center">
   
-# JavaScript programming code list
+# JavaScript Coding List
 
 ```
   
