@@ -5,7 +5,7 @@
 
 ```
   
- Data Analytics Professional 🐱‍👤🔢
+ JavaScript Programming 🐱‍👤�
 
 ```
   </div>
